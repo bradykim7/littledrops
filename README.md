@@ -1,25 +1,44 @@
-# littledrops
-" Little drops make the mighty ocean " , 더 좋은 곳을 위한 매일매일의 훈련. 
+## Daily Algorithm 
 
-# Commit File Format
+매일, 서로를 감시하며 간단한 알고리즘 풀이
+
+### Level
+`E` - EASY, `M` - MEDIUM, `H` - HARD
+
+### List 
+---
+* `E` [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) - Tree
+* `H` [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) - Array
+* `M` [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) - Hash Table
+* `M` [2870. Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/) - Array
+* `M` [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/) - Array
+* `M` [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) - Linked List
+* `E` [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) - Array
+
+
+
+---
+### Commit File Format
 
 # Original Problem
 <!-- 원문 링크 ex )  https://leetcode.com/problems/assign-cookies/?envType=daily-question -->
+[leetCode 주소](https://leetcode.com/problems)
 
 # Approach
 <!-- Describe your approach to solving the problem. -->
+어떻게 접근하였는지, 혹은 간단한 풀이 설명.
 
 # Complexity
 - Time complexity:
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
-
+원하신다면 시간 복잡도 서술
 - Space complexity:
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
+원하신다면 공간 복잡도 서술
 
 # Code
 ```
-
-
+def sample(it, is, sample):
+    little = drops
+    Success = True if you did today else False
 ```
-
-
