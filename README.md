@@ -7,6 +7,7 @@
 
 ### List 
 ---
+* `E` [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) - Tree
 * `E` [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) - Tree
 * `H` [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) - Array
 * `M` [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) - Hash Table
