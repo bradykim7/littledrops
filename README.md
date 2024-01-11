@@ -7,7 +7,6 @@
 
 ### List 
 ---
-1026. Maximum Difference Between Node and Ancestor
 
 * `M` [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description)- Tree
 * `M` [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description)- Tree
