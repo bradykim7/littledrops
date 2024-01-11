@@ -7,6 +7,7 @@
 
 ### List 
 ---
+* `M` [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description)- Tree
 * `E` [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) - Tree
 * `E` [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) - Tree
 * `H` [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) - Array
