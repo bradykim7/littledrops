@@ -8,6 +8,7 @@
 ### List 
 ---
 
+* `M` [2217. Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/description/)- Array, Math
 * `M` [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)- Tree
 * `M` [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description)- Tree
 * `M` [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description)- Tree
