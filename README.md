@@ -8,6 +8,7 @@
 ### List 
 ---
 
+* `M` [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses)- Array, Hash Table, Sorting, Counting
 * `M` [2217. Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/description/)- Array, Math
 * `M` [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)- Tree
 * `M` [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description)- Tree
