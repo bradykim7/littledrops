@@ -7,7 +7,7 @@
 
 ### List 
 ---
-
+* `E` [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) - Math, Dynamic Programming, Memoization
 * `E` [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/) - Array, Hash Table
 * `M` [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)- Array, Hash Table, Math, Design, Randomized
 * `M` [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses)- Array, Hash Table, Sorting, Counting
