@@ -7,6 +7,7 @@
 
 ### List 
 ---
+* `E` [198. House Robber](https://leetcode.com/problems/house-robber/description/) - Array, Dynamic Programming
 * `E` [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) - Math, Dynamic Programming, Memoization
 * `E` [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/) - Array, Hash Table
 * `M` [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)- Array, Hash Table, Math, Design, Randomized
