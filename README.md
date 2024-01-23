@@ -7,6 +7,8 @@
 
 ### List 
 ---
+1239. Maximum Length of a Concatenated String with Unique Characters
+* `M` [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description) - Array, String, Backtracking, Bit Manipulation
 * `E` [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/description) - Array, Hash Table, Bit Manipulation, Sorting
 * `M` [198. House Robber](https://leetcode.com/problems/house-robber/description/) - Array, Dynamic Programming
 * `E` [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) - Math, Dynamic Programming, Memoization
