@@ -7,6 +7,7 @@
 
 ### List 
 ---
+* `M` [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) - String, Dynamic Programming
 * `M` [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) - Bit Manipulation, Tree, Depth-First Search, Breadth-First Search, Binary Tree 
 * `M` [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description) - Array, String, Backtracking, Bit Manipulation
 * `E` [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/description) - Array, Hash Table, Bit Manipulation, Sorting
