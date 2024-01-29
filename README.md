@@ -5,8 +5,9 @@
 ### Level
 `E` - EASY, `M` - MEDIUM, `H` - HARD
 
-### List 
+### List
 ---
+* `E` [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description) - Stack, Design, Queue
 * `M` [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) - String, Dynamic Programming
 * `M` [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) - Bit Manipulation, Tree, Depth-First Search, Breadth-First Search, Binary Tree 
 * `M` [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description) - Array, String, Backtracking, Bit Manipulation
