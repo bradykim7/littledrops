@@ -7,6 +7,7 @@
 
 ### List
 ---
+#### January
 * `M` [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description) - Array, Math, Stack
 * `E` [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description) - Stack, Design, Queue
 * `M` [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) - String, Dynamic Programming
@@ -31,30 +32,4 @@
 * `M` [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) - Linked List
 * `E` [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) - Array
 
-
-
----
-### Commit File Format
-
-# Original Problem
-<!-- 원문 링크 ex )  https://leetcode.com/problems/assign-cookies/?envType=daily-question -->
-[leetCode 주소](https://leetcode.com/problems)
-
-# Approach
-<!-- Describe your approach to solving the problem. -->
-어떻게 접근하였는지, 혹은 간단한 풀이 설명.
-
-# Complexity
-- Time complexity:
-<!-- Add your time complexity here, e.g. $$O(n)$$ -->
-원하신다면 시간 복잡도 서술
-- Space complexity:
-<!-- Add your space complexity here, e.g. $$O(n)$$ -->
-원하신다면 공간 복잡도 서술
-
-# Code
-```
-def sample(it, is, sample):
-    little = drops
-    Success = True if you did today else False
-```
+#### February
