@@ -33,3 +33,4 @@
 * `E` [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) - Array
 
 #### February
+* `M` [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/) - Array, Greedy, Sorting
