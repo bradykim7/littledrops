@@ -33,5 +33,6 @@
 * `E` [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) - Array
 
 #### February
+* `E` [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) - Hash Table, String, Queue, Counting
 * `H` [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description) - Hash Table, String, Sliding Window
 * `M` [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/) - Array, Greedy, Sorting
