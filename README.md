@@ -33,6 +33,7 @@
 * `E` [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) - Array
 
 #### February
+* `E` [169. Majority Element](https://leetcode.com/problems/majority-element/description/) - Array, Hash Table, Divide and Conquer, Sorting, Counting
 * `M` [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) - Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting
 * `M` [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) - Array, Hash Table, String, Sorting
 * `E` [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) - Hash Table, String, Queue, Counting
