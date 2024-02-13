@@ -33,6 +33,7 @@
 * `E` [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) - Array
 
 #### February
+* `E` [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description) - Array, Two Pointers, String
 * `E` [169. Majority Element](https://leetcode.com/problems/majority-element/description/) - Array, Hash Table, Divide and Conquer, Sorting, Counting
 * `M` [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) - Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting
 * `M` [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) - Array, Hash Table, String, Sorting
