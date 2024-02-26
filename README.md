@@ -37,6 +37,7 @@
 
 ### February
 
+* `E` [100. Same Tree](https://leetcode.com/problems/same-tree) - Tree, Depth-First Search, Breadth-First Search, Binary Tree
 * `H` [2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/description) - Array, Math, Union Find, Number Theory
 * `E` [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description) - Array, Hash Table, Graph
 * `M` [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/) - Bit Manipulation
