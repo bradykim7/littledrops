@@ -37,6 +37,7 @@
 
 ### February
 
+* `E` [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) - Tree, Depth-First Search, Binary Tree
 * `E` [100. Same Tree](https://leetcode.com/problems/same-tree) - Tree, Depth-First Search, Breadth-First Search, Binary Tree
 * `H` [2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/description) - Array, Math, Union Find, Number Theory
 * `E` [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description) - Array, Hash Table, Graph
