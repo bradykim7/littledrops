@@ -57,6 +57,7 @@
 * `M` [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/) - Array, Greedy, Sorting
 
 ### March
+
 * `E` [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/) - Math, Prefix Sum
 * `M` [1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description) - Hash Table, Linked List
 * `M` [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) - Hash Table, String, Sorting
