@@ -58,6 +58,7 @@
 
 ### March 
 
+* `M` [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) - Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting
 * `M` [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) - Array, Hash Table, Sliding Window, Prefix Sum
 * `E` [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/) - Math, Prefix Sum
 * `M` [1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description) - Hash Table, Linked List
