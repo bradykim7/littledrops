@@ -58,7 +58,7 @@
 
 ### March 
 
-* `M` [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) - Linked List, Recursion
+* `E` [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) - Linked List, Recursion
 * `M` [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) - Linked List
 * `M` [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) - Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting
 * `M` [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) - Array, Hash Table, Sliding Window, Prefix Sum
