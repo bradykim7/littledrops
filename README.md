@@ -79,3 +79,4 @@
 ### April
 
 * `E` [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description) - Tree, Depth-First Search, Breadth-First Search, Binary Tree
+* `E` [112. Path Sum](https://leetcode.com/problems/path-sum/) - Tree, Depth-First Search, Breadth-First Search, Binary Tree
