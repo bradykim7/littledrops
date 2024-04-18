@@ -81,3 +81,4 @@
 * `E` [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description) - Tree, Depth-First Search, Breadth-First Search, Binary Tree
 * `E` [112. Path Sum](https://leetcode.com/problems/path-sum/) - Tree, Depth-First Search, Breadth-First Search, Binary Tree
 * `E` [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) - Tree, Depth-First Search, Breadth-First Search, Binary Tree
+* `E` [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) - String, Backtracking, Tree, Depth-First Search, Binary Tree
