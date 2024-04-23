@@ -84,3 +84,4 @@
 * `E` [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) - String, Backtracking, Tree, Depth-First Search, Binary Tree
 * `E` [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) - Depth-First Search, Breadth-First Search, Union Find, Graph
 * `E` [1. Two Sum](https://leetcode.com/problems/two-sum/) - Array, Hash Table
+* `E` [9. Palindrome Number](https://leetcode.com/problems/palindrome-number) - Math
