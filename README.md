@@ -85,3 +85,4 @@
 * `E` [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) - Depth-First Search, Breadth-First Search, Union Find, Graph
 * `E` [1. Two Sum](https://leetcode.com/problems/two-sum/) - Array, Hash Table
 * `E` [9. Palindrome Number](https://leetcode.com/problems/palindrome-number) - Math
+* `E` [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description) - Math, Dynamic Programming, Memoization
