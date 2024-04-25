@@ -1,0 +1,31 @@
+# Original Problem
+<!-- Describe your first thoughts on how to solve this problem. -->
+* `E` [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description) - Math, Dynamic Programming, Memoization
+  
+# Approach
+<!-- Describe your approach to solving the problem. -->
+점화식 풀이 A(n+3) = A(n+2) + A(n+1) + A(n)
+# Complexity
+- Time complexity:
+<!-- Add your time complexity here, e.g. $$O(n)$$ -->
+
+<!-- Add your space complexity here, e.g. $$O(n)$$ -->
+
+# Code
+
+```python3
+class Solution:
+    def romanToInt(self, s: str) -> int:
+        arr = {
+            "I":1,"V":5,"X":10,"L":50,"C":100,"D":500,"M":1000
+        }
+        ans = 0
+        for i in range(len(s)):
+            if i == len(s) - 1:
+                ans += arr[s[i]]
+            elif arr[s[i]] < arr[s[i+1]]:
+                ans -= arr[s[i]]
+            else :
+                ans += arr[s[i]]
+        return ans
+```
