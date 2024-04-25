@@ -86,3 +86,5 @@
 * `E` [1. Two Sum](https://leetcode.com/problems/two-sum/) - Array, Hash Table
 * `E` [9. Palindrome Number](https://leetcode.com/problems/palindrome-number) - Math
 * `E` [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description) - Math, Dynamic Programming, Memoization
+* `E` [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) - Hash Table, Math, String
+
